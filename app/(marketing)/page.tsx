@@ -29,7 +29,7 @@ const MarketingPage = () => {
           Best Task Management Tool
         </div>
         <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6">
-          Elevate your team's productivity with
+          Elevate your productivity with
         </h1>
         <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-violet-600 text-white px-4 p-2 rounded-md pb-4 w-fit">
           Wattafall
