@@ -26,24 +26,23 @@ const MarketingPage = () => {
       >
         <div className="mb-4 flex items-center border shadow-sm p-4 bg-amber-100 text-amber-700 rounded-full uppercase">
           <Medal className="h-6 w-6 mr-2" />
-          No 1 task managment
+          Best Task Management Tool
         </div>
         <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6">
-          Wattafall helps team move
+          Elevate your team's productivity with
         </h1>
-        <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white px-4 p-2 rounded-md pb-4 w-fit">
-          work forward.
+        <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-violet-600 text-white px-4 p-2 rounded-md pb-4 w-fit">
+          Wattafall
         </div>
       </div>
       <div
         className={cn(
-          "text-sm md:text-xl text-neutral-400 mt-4 max-w-xs md:max-w-2xl text-center mx-auto",
+          "text-sm md:text-2xl text-slate-400 mt-4 max-w-xs md:max-w-xl text-center mx-auto",
           textFont.className
         )}
       >
-        Collaborate, manage projects, and reach new productivity peaks. From
-        high rises to the home office, the way your team works is unique -
-        accomplish it all with Wattafall.
+        A modern, intuitive, and flexible task management tool. Streamline your
+        workflow, collaborate seamlessly, and boost productivity.
       </div>
       <Button className="mt-6" size="lg" asChild>
         <Link href="/sign-up">Get Wattafall for free</Link>
