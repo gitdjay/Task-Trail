@@ -32,7 +32,7 @@ const MarketingPage = () => {
           Elevate your productivity with
         </h1>
         <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-violet-600 text-white px-4 p-2 rounded-md pb-4 w-fit">
-          Wattafall
+          Task-Trail
         </div>
       </div>
       <div
@@ -45,7 +45,7 @@ const MarketingPage = () => {
         workflow, collaborate seamlessly, and boost productivity.
       </div>
       <Button className="mt-6" size="lg" asChild>
-        <Link href="/sign-up">Get Wattafall for free</Link>
+        <Link href="/sign-up">Get Task-Trail for free</Link>
       </Button>
     </div>
   );
